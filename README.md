@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/main/banner.png" alt="banner" />
+  <img src="https://github.com/rizkiifauzii/rizkiifauzii/blob/main/banner.png" alt="banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Rizki — Full-Stack Engineer & Linux Enthusiast</h1>
@@ -60,15 +60,15 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkiifauzii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiifauzii&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔄 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkiifauzii&theme=react-dark" />
 </p>
 
 ---
