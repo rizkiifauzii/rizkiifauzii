@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/rizkiifauzii/rizkiifauzii/blob/main/banner.png" alt="banner" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm Rizki — Full-Stack Engineer & Linux Enthusiast</h1>
 <p align="center">Automate everything. Document everything.</p>
